@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EN1GMA4
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 👌🏻 PHP (symfony framework) | C# 
 - 💞️ I’m looking to collaborate on freemium softwares
 - 📫 How to reach me -> Not Yet.
 
